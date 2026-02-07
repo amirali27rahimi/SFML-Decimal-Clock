@@ -3,9 +3,11 @@
 A modern desktop application built with the Simple and Fast Multimedia Library (SFML) that simultaneously displays both Standard Time and Decimal Time using a visually appealing interface.
 
 in linux
+
 ![appearance and performance](assets/showing-performance-linux.gif)
 
 in windows
+
 ![appearance and performance](assets/showing-performance-windows.gif)
 
 🌟 Core Functionality: Decimal Time System
