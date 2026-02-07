@@ -2,7 +2,11 @@
 
 A modern desktop application built with the Simple and Fast Multimedia Library (SFML) that simultaneously displays both Standard Time and Decimal Time using a visually appealing interface.
 
-![appearance and performance](assets/showing-performance.gif)
+in linux
+![appearance and performance](assets/showing-performance-linux.gif)
+
+in windows
+![appearance and performance](assets/showing-performance-windows.gif)
 
 🌟 Core Functionality: Decimal Time System
 This clock implements a unique Decimal Time System where the day is divided into 10 hours, each hour into 100 minutes, and each minute into 100 seconds.
