@@ -54,3 +54,5 @@ Execution Notes:
 For the program to run without errors, ensure the required assets are in the same directory as the executable (decimal_clock):
 Font File: arial.ttf
 Icon File: icon.png
+
+✅  You can download executable files for linux and windows in (release) part.
