@@ -1,5 +1,4 @@
 # ⏱️ SFML Decimal Clock
-A clock that devides 1 day to 10 hours , 1 hour to 100 minutes and 1 minute to 100 seconds 
 
 A modern desktop application built with the Simple and Fast Multimedia Library (SFML) that simultaneously displays both Standard Time and Decimal Time using a visually appealing interface.
 
@@ -7,6 +6,7 @@ A modern desktop application built with the Simple and Fast Multimedia Library (
 
 🌟 Core Functionality: Decimal Time System
 This clock implements a unique Decimal Time System where the day is divided into 10 hours, each hour into 100 minutes, and each minute into 100 seconds.
+The length of the blue arc is determined by the elapsed time of day.
 
 Decimal Time Units:
 1 Day = 10 Decimal Hours
